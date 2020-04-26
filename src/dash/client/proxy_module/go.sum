@@ -1,5 +1,7 @@
 github.com/bifurcation/mint v0.0.0-20171208053358-a6080d464fb5 h1:gL/yeSX/LPrfzHJXlbbEQOn8YWlFsTESlR5zzt21cIs=
 github.com/bifurcation/mint v0.0.0-20171208053358-a6080d464fb5/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5 h1:KdsEvFq5LFgLLgw+qvdTClkF8zme3IdrrboZTy6LMvY=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/golang/mock v1.2.0/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=

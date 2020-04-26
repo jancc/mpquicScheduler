@@ -1,6 +1,8 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/bifurcation/mint v0.0.0-20171208053358-a6080d464fb5 h1:gL/yeSX/LPrfzHJXlbbEQOn8YWlFsTESlR5zzt21cIs=
 github.com/bifurcation/mint v0.0.0-20171208053358-a6080d464fb5/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5 h1:KdsEvFq5LFgLLgw+qvdTClkF8zme3IdrrboZTy6LMvY=
+github.com/bifurcation/mint v0.0.0-20171208133358-a6080d464fb5/go.mod h1:zVt7zX3K/aDCk9Tj+VM7YymsX66ERvzCJzw8rFCX2JU=
 github.com/cenkalti/backoff v2.1.1+incompatible h1:tKJnvO2kl0zmb/jA5UKAt4VoEVw1qxKWjE/Bpp46npY=
 github.com/cenkalti/backoff v2.1.1+incompatible/go.mod h1:90ReRw6GdpyfrHakVjL/QHaoyV4aDUVVkXQJJJ3NXXM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

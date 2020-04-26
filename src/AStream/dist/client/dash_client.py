@@ -57,7 +57,7 @@ SEGMENT_LIMIT = None
 QUIC = False
 MP = False
 NO_KEEP_ALIVE = False
-SCHEDULER = 'lowRTT'
+SCHEDULER = 'rr'
 
 lastTime = None
 procTimes = list()
